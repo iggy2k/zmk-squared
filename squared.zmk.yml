@@ -1,0 +1,8 @@
+file_format: "1"
+id: squared
+name: squared
+type: shield
+url: https://github.com/iggy2k/Sweep-Squared
+requires: [nice_nano]
+features:
+  - keys

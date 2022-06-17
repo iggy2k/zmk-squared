@@ -1,0 +1,6 @@
+if SHIELD_SQUARED
+
+config ZMK_KEYBOARD_NAME
+    default "squared"
+
+endif
